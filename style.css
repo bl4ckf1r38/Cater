@@ -270,17 +270,25 @@ button:hover {
 
 .text-on-scroll {
   position: absolute;
-  top: 20%;         /* Afasta do rolo superior */
-  left: 21%;        /* Margem esquerda mais larga */
-  right: 15%;       /* Margem direita igual */
-  bottom: 12%;      /* Deixa espaço embaixo */
-  z-index: 2;
+  top: 10%;
+  left: 10%;
+  right: 10%;
+  bottom: 10%;
   overflow-y: auto;
-  padding: 10px;
+  padding: 20px;
+  background-color: transparent;
   text-align: justify;
   color: #4b2e05;
   font-family: Georgia, serif;
   font-size: 1.1rem;
-  line-height: 1.5;
-  background-color: transparent;
+  line-height: 1.6;
+  z-index: 2;
+}
+
+.scroll-image {
+  width: 100%;
+  height: auto;
+  max-height: 80vh;
+  display: block;
+  border-radius: 80px;
 }
