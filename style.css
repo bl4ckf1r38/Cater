@@ -276,12 +276,12 @@ button:hover {
 
 .text-on-scroll {
   position: absolute;
-  top: 10%;
-  left: 10%;
-  right: 10%;
-  bottom: 10%;
+  top: 15%;
+  left: 15%;
+  right: 12%;
+  bottom: 15%;
   overflow-y: auto;
-  padding: 20px;
+  padding: 10px 20px;
   background-color: transparent;
   text-align: justify;
   color: #4b2e05;
