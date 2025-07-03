@@ -277,7 +277,7 @@ button:hover {
 .text-on-scroll {
   position: absolute;
   top: 15%;
-  left: 15%;
+  left: 30%;
   right: 12%;
   bottom: 15%;
   overflow-y: auto;
