@@ -263,9 +263,9 @@ button:hover {
 
 .scroll-image {
   width: 100%;
-  height: auto;
+  height: 80%;
   display: block;
-  border-radius: 10px;
+  border-radius: 80px;
 }
 
 .text-on-scroll {
