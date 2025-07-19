@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
       let username = document.getElementById('username').value;
       let password = document.getElementById('password').value;
 
-      if (username === 'Cater' && password === '05052024') {
+      if (username === 'Cather' && password === '050524') {
         window.location.href = 'welcome.html';
       } else {
         alert('Usuário ou senha inválidos!');
